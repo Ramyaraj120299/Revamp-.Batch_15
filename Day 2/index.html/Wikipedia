@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wikipedia clone</title>
+</head>
+<body>
+    <h1>Technology</h1>
+    <hr>
+    <p>Article <a href="#"> Talk</a></p>
+    <hr>
+    <p>From Wikipedia, the free encyclopedia</p>
+    <p>This article is about the online encyclopedia. For Wikipedia's home page, see Main Page. For the primary English-language Wikipedia, see <a href="#">English Wikipedia</a>. For other uses, see Wikipedia (disambiguation).</p>
+  <img src="../Day 2/asset/image.jpg" alt="ERROR" style="float: right;">
+  <p>Technology is the application of <a href="#">conceptual knowledge</a> to achieve practical goals, especially in a reproducible way.[1] The word technology can also mean the products resulting from such efforts,[2][3] including both tangible tools such as utensils or machines, and intangible ones such as software. Technology plays a critical role in <a href="#">science, engineering, and everyday life</a>.<br></br>
+
+    Technological advancements have led to significant changes in society. The earliest known technology is the stone tool, used during prehistory, followed by the control of fire—which in turn contributed to the growth of the human brain and the development of language during the Ice Age, according to the cooking hypothesis. The invention of the wheel in the Bronze Age allowed greater travel and the creation of more complex machines. More recent technological inventions, including the printing press, telephone, and the Internet, have lowered barriers to communication and ushered in the knowledge economy.<br></br>
+
+    While technology contributes to economic development and improves human prosperity, it can also have negative impacts like pollution and resource depletion, and can cause social harms like technological unemployment resulting from automation. As a result, philosophical and political debates about the role and use of technology, the ethics of technology, and ways to mitigate its downsides are ongoing.</p>
+</body>
+</html>
+<h1>Etymology</h1>
+<hr>
+<p>Technology is a term dating back to the early 17th century that meant 'systematic treatment' (from Greek Τεχνολογία, from the Greek: τέχνη, romanized: tékhnē, lit. 'craft, art' and -λογία (-logíā), 'study, knowledge').[4][5] It is predated in use by the Ancient Greek word τέχνη (tékhnē), used to mean 'knowledge of how to make things', which encompassed activities like architecture.[6]<br></br>
+Starting in the 19th century, continental Europeans started using the terms Technik (German) or technique (French) to refer to a 'way of doing', which included all technical arts, such as dancing, navigation, or printing, whether or not they required tools or instruments.[7] At the time, Technologie (German and French) referred either to the academic discipline studying the "methods of arts and crafts", or to the political discipline "intended to legislate on the functions of the arts and crafts."[8] The distinction between Technik and Technologie is absent in English, and so both were translated as technology. The term was previously uncommon in English and mostly referred to the academic discipline, as in the Massachusetts Institute of Technology.
+</p>
+<h1>History</h1>
+<hr>
+<p>Main articles:  <a href="#">History of technology</a> and Timeline of historic inventions</p>
