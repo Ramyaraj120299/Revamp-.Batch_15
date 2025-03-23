@@ -5,9 +5,19 @@
 
 .para
 {
-    color: rgb(49, 165, 2);
+    color: rgb(199, 164, 48);
     font-size: 20px;
     font-family:"poppins";
     font-weight: 400;
     text-align: justify;
+    height: 200px;
+}
+.container-div{
+    background-color: rgb(197, 18, 18);
+    background-image: url(https://ik.imagekit.io/9lxioulzw/college.jpg?updatedAt=1742742013921);
+    height: 200px;
+}
+.div-para{
+    color: rgb(211, 41, 11);
+
 }
