@@ -1,0 +1,51 @@
+.bg-container{
+    background-image:url("https://ik.imagekit.io/9lxioulzw/HTML%20Day%201/todolistbg.png_updatedAt=1700761069523?updatedAt=1742838767234");
+   
+    height: 600px;
+    width: 300px;
+text-align: center;
+
+color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-repeat: no-repeat;
+
+    
+}
+.content{
+    font: height 8px;
+ 
+ font-size: 8px;
+ 
+text-align: left;
+}
+.paragraph
+{
+ font: height 10px;
+ 
+ font-size: 13px;
+
+text-align: left;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.para{
+    
+    font-size: 5px;
+    font-size: 14px;
+    text-align: center;
+   font-weight: 100;
+    
+}
+.container{
+    font-weight: 400;
+    text-align: center;
+  
+}
+   .container-div{
+ 
+    text-align: center;
+    font-size: 10px;
+    opacity: 0.7;
+    text-decoration: underline;
+   }
+   
